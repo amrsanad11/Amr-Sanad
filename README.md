@@ -9,7 +9,7 @@
 🔬 Experienced **Computer Vision Engineer** specializing in **image processing and deep learning**.  
 🧠 Passionate about **AI, Machine Learning, and Computer Vision**.  
 📊 Skilled in **developing, training, and deploying deep learning models** for various applications.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amr-sanad/) | [GitHub](https://github.com/amrsanad11)  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amr-sanad-/) | [GitHub](https://github.com/amrsanad11)  
 
 ---
 
@@ -83,7 +83,10 @@
 - ✅ **Deep Learning Specialization – Coursera**  
 - ✅ **Machine Learning Specialization – Coursera**  
 
-[View Certificates](https://www.coursera.org/account/accomplishments/specialization/XPVXJ6KBUVX6)  
+[View Certificates](https://www.coursera.org/account/accomplishments/specialization/F3VNJM9RQZQ7) 
+[View Certificates](https://www.coursera.org/account/accomplishments/specialization/XPVXJ6KBUVX6) 
+[View Certificates](https://www.coursera.org/account/accomplishments/specialization/LURJYB338959)  
+[View Certificates](https://www.coursera.org/account/accomplishments/specialization/XPVXJ6KBUVX6) 
 
 ---
 
@@ -96,8 +99,8 @@
 ---
 
 ## 📢 Let's Connect  
-📧 **Email:** positiveresults330@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/amr-sanad](https://www.linkedin.com/in/amr-sanad/)  
+📧 **Email:** amrsanadl15@gmail.com , positiveresults330@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/amr-sanad](https://www.linkedin.com/in/amr-sanad-/)  
 💻 **GitHub:** [github.com/amrsanad11](https://github.com/amrsanad11)  
 
 ---
