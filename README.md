@@ -14,26 +14,33 @@
 ---
 
 ## 🚀 Featured Projects  
-### 🧠 **Alzheimer’s Detection Using OASIS Dataset**  
-- Built a **deep learning model** to classify Alzheimer’s disease using **80,000 brain MRI images**.  
-- Applied **data augmentation** and **image preprocessing** to improve classification accuracy.  
-- Optimized **CNN architecture** for efficient **GPU inference**.  
+### 🎥 **Text-to-Video Generation using Stable Diffusion**  
+- Implemented **Stable Diffusion** for generating **AI-powered videos from text prompts**.  
+- Fine-tuned the model for **better video coherence and smooth transitions**.  
+- Optimized **latent diffusion models** for faster and more efficient video synthesis.  
 
-🔗 **Repo:** [Alzheimer’s Detection](https://github.com/amrsanad11/alzheimer-detection)  
+🔗 **Repo:** [Text-to-Video Generation](https://github.com/amrsanad11/text-to-video-stable-diffusion)  
 
-### ❤️ **CT Heart Segmentation**  
-- Developed a **segmentation model** for **CT heart images** using **deep learning**.  
-- Applied **data augmentation** techniques to enhance model generalization.  
-- Achieved accurate heart structure identification for potential **clinical applications**.  
+### 🔍 **Search by Image using FAISS**  
+- Built an **image retrieval system** that allows users to **search by image**.  
+- Used **FAISS (Facebook AI Similarity Search)** for **fast and scalable** nearest neighbor search.  
+- Applied **feature extraction** using deep learning models to generate efficient embeddings.  
 
-🔗 **Repo:** [CT Heart Segmentation](https://github.com/amrsanad11/ct-heart-segmentation)  
+🔗 **Repo:** [Search by Image with FAISS](https://github.com/amrsanad11/image-search-faiss)  
 
-### 🏥 **Brain MRI Tumor Detection**  
-- Created a **deep learning model** for detecting **brain tumors in MRI images**.  
-- Implemented **image preprocessing** and **data normalization** for better accuracy.  
-- Model effectively distinguishes between **tumor** and **non-tumor cases**.  
+### 📄 **Comparative Analysis of Similarity Search Methods with PCA on Mini-ImageNet using FAISS**  
+- Authored a **comparative research paper** on different **similarity search** techniques.  
+- Analyzed **PCA-based dimensionality reduction** on the **Mini-ImageNet dataset**.  
+- Evaluated the efficiency of **FAISS** for high-speed **image retrieval**.  
 
-🔗 **Repo:** [Brain MRI Tumor Detection](https://github.com/amrsanad11/brain-tumor-detection)  
+🔗 **Paper:** [Comparative Analysis of Similarity Search with FAISS](https://github.com/amrsanad11/paper-similarity-search)  
+
+### 🌐 **Research Paper Website + AI Chatbot**  
+- Developing a **website** for **hosting and presenting** the research paper interactively.  
+- Integrating an **AI-powered chatbot** to **answer questions about the paper**.  
+- Using **FastAPI + Streamlit** for the web interface and **LLM-based Q&A** chatbot.  
+
+🔗 **Repo:** [AI Chatbot for Research Paper](https://github.com/amrsanad11/paper-chatbot)  
 
 ---
 
@@ -54,12 +61,14 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+![Mediapipe](https://img.shields.io/badge/-Mediapipe-FF6F00?style=flat&logo=google&logoColor=white)  
+![Dlib](https://img.shields.io/badge/-Dlib-5C3EE8?style=flat&logo=python&logoColor=white)  
 
 ### **Tools & Technologies:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
