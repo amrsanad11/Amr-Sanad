@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm Amr Sanad</h1>
 <p align="center">
-🚀 Computer Vision Engineer | 🏥 Medical AI Enthusiast | 📍 Egypt  
+🚀 Computer Vision Engineer | 📍 Egypt  
 </p>
 
 ---
 
 ## 📌 About Me  
-🔬 Experienced **Computer Vision Engineer** specializing in **medical imaging applications**.  
-🧠 Passionate about **AI, Deep Learning, and Medical Image Analysis**.  
-📊 Skilled in **developing, training, and deploying deep learning models** for Alzheimer's detection, heart segmentation, and tumor diagnosis.  
+🔬 Experienced **Computer Vision Engineer** specializing in **image processing and deep learning**.  
+🧠 Passionate about **AI, Machine Learning, and Computer Vision**.  
+📊 Skilled in **developing, training, and deploying deep learning models** for various applications.  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amr-sanad/) | [GitHub](https://github.com/amrsanad11)  
 
 ---
@@ -45,7 +45,7 @@
 - **CNNs, RNNs, Transfer Learning, GANs**  
 - **Supervised & Unsupervised Learning**  
 
-### **Computer Vision & Medical Imaging:**  
+### **Computer Vision:**  
 - **Image Classification, Segmentation, Object Detection**  
 - **Feature Extraction & Image Preprocessing**  
 
@@ -54,12 +54,17 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
 
 ### **Tools & Technologies:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-1F77B4?style=flat&logo=python&logoColor=white)  
 
 ---
 
@@ -88,4 +93,4 @@
 
 ---
 
-🔥 **"AI is not just a tool, it's the future of medical technology!"** 🚀
+🔥 **"AI is not just a tool, it's the future of technology!"** 🚀
