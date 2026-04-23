@@ -168,7 +168,7 @@
 - amrsanadl15@gmail.com  
 - positiveresults330@gmail.com  
 
-🔗 **LinkedIn:** [linkedin.com/in/amr-sanad](https://www.linkedin.com/in/amr-sanad-/)  
+🔗 **LinkedIn:** [linkedin.com/in/amr-sanad](https://www.linkedin.com/in/amr-sanad-ai/)  
 💻 **GitHub:** [github.com/amrsanad11](https://github.com/amrsanad11)  
 
 ---
