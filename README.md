@@ -165,8 +165,7 @@
 
 ## 📢 Let's Connect  
 📧 **Email:**  
-- amrsanadl15@gmail.com  
-- positiveresults330@gmail.com  
+- amr.sanad.eg@gmail.com    
 
 🔗 **LinkedIn:** [linkedin.com/in/amr-sanad](https://www.linkedin.com/in/amr-sanad-ai/)  
 💻 **GitHub:** [github.com/amrsanad11](https://github.com/amrsanad11)  
